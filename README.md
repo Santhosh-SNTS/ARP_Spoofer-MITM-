@@ -16,11 +16,11 @@ step1: download and install scapy module
        pip install --pre scapy[complete]
  or download and install scapy module 
        
-       githubhttps://github.com/secdev/scapy
+       https://github.com/secdev/scapy
  To install : Move to that directory using terminal, 
  then cmd: 
          
-         python setup.py install 
+       python setup.py install 
 
 step2: Move to our tool location
 
