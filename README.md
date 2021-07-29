@@ -26,10 +26,10 @@ step2: Move to our tool location
 
 serp3: If python 2.7
       
-      pyhton arp_spoofer2.py   
+      python arp_spoofer2.py   
   If pyhton 3.8 or 3.9 
       
-      pyhton3 arp_spoofer3.py
+      python3 arp_spoofer3.py
 step4: Enter the target IP you want to spoof eg: 192.168.225.22 
 
 step5: Enter the Router IP to be Man in the Middle eng: 192.168.225.1
